@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUI\r\n
+comment1.params=
+comment1.target=java.lang.String\ gen()
+comment2.params=
+comment2.target=void\ quit()
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\r\n\ Create\ the\ frame\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=frame
+comment5.target=void\ makeMenuBar(javax.swing.JFrame)
+comment5.text=\r\n\ Create\ the\ main\ frame's\ menu\ bar.\r\n\ @param\ frame\ \ \ The\ frame\ that\ the\ menu\ bar\ should\ be\ added\ to.\r\n
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7
