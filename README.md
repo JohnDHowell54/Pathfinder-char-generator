@@ -2,7 +2,7 @@
 This will generate a character for you in the Pathfinder Role Playing Game
 
 VERSION:
-Currently it is at Version 0.3. 
+Currently it is at Version 1.0
 
 FEATURES:
 
